@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+
+div {
+    display: inline-block;
+    padding: 17px;
+    font-family: "Baloo", cursive;
+    font-size: 36px;
+    width: 120px;
+    height: 144px;
+    border-radius: 10px;
+    border-color: #606060;
+    border-width: 2px;
+    border-style: solid;
+    position: relative;
+}
+
+.even {
+    background-color: #f7fade;
+}
+
+.odd {
+    background-color: #dfedd6;
+}
